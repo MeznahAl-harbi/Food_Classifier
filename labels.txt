@@ -1,0 +1,3 @@
+0 Healthy Food
+1 Neutral / In_Between
+2 Junk Food
